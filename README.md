@@ -1,4 +1,4 @@
-# Kiraci Mobile – React Native Starter
+# – React Native Starter
 
 Clean, scalable and reusable **React Native starter project**.  
 Designed to be cloned and used as a base for new mobile applications without rebuilding infrastructure every time.
